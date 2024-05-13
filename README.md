@@ -1,8 +1,10 @@
+## Введение
 1. [Введение](./articles/01_about.md)
 2. [История Языка](./articles/02_history.md)
 3. [Пишем первую программу (Windows)](./articles/03_firststeps.md)
 4. [Пишем первую программу (Linux)](./articles/04_firststeps_nix.md)
 
+## Базовые конструкции языка
 6. [Оператор присваивания](./articles/06_assignment.md)
 7. [Форматированный ввод и вывод](./articles/07_formatted_input_output.md)
 8. [Ветвления](./articles/08_branches.md)
@@ -50,6 +52,7 @@
 38. [Массивы произвольной длины и выделение памяти на стеке](./articles/38_stack_memory_allocation.md)
 39. [Быстрое выделение памяти под многомерные массивы](./articles/39_fast_array_allocation.md)
 
+## Прочее
 21. [Отладка программы (Windows)](./articles/21_debug.md)
 32. [Генерация псевдослучайных чисел](./articles/32_random.md)
 45. [Сложные объявления](./articles/45_sophisticated_declarations.md)
