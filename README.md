@@ -49,19 +49,10 @@
 37. [Дополнительные примеры работы с памятью и указателями](./articles/37_memory_allocation_examples.md)
 38. [Массивы произвольной длины и выделение памяти на стеке](./articles/38_stack_memory_allocation.md)
 39. [Быстрое выделение памяти под многомерные массивы](./articles/39_fast_array_allocation.md)
-<<<<<<< HEAD
 
 21. [Отладка программы (Windows)](./articles/21_debug.md)
 32. [Генерация псевдослучайных чисел](./articles/32_random.md)
 45. [Сложные объявления](./articles/45_sophisticated_declarations.md)
-=======
-40. [Объединения и битовые поля](./articles/40_unions_and_bitfields.md)
-41. [Функции с переменным числом параметров](./articles/41_vararg_functions.md)
-42. [Переполнение целых чисел](./articles/42_int_overflow.md)
-43. [Работа с текстовыми файлами](./articles/43_text_files.md)
-44. [Работа с бинарными файлами](./articles/44_binary_files.md)
-45. [Сложные объявления языка си](./articles/45_sophisticated_declarations.md)
->>>>>>> 3a781208ae628ab22cc7a98d26ee2989fff81f2c
 46. [Сигналы](./articles/46_signals.md)
 
 https://learnc.info/index.html
