@@ -21,15 +21,10 @@
 40. [Объединения и битовые поля](./articles/40_union_and_bitfields.md)
 30. [Битовые операции](./articles/30_bitwise_operators.md)
 18. [Макросы](./articles/18_macros.md)
-44. [Работа с бинарными файлами](./articles/44_binary_files.md)
 
-## Строки
-14. [Строки](./articles/14_strings.md)
-31. [Функции для работы со строками](./articles/31_mastering_strings.md)
-33. [Строковые литералы и строки](./articles/33_string_literals_and_const_pointers.md)
-43. [Работа с текстовыми файлами](./articles/43_text_files.md)
-
-## Указатели
+## Указатели и массивы
+12. [Массивы](./articles/12_arrays.md)
+13. [Многомерные массивы](./articles/13_multidimensional_arrays.md)
 15. [Указатели](./articles/15_pointers.md)
 16. [Константные указатели](./articles/16_const_pointers.md)
 17. [Массивы и указатели](./articles/17_arrays_vs_pointers.md)
@@ -42,9 +37,13 @@
 29. [Об аргументах функции](./articles/29_function_arguments.md)
 41. [Функции с переменным числом параметров](./articles/41_vararg_functions.md)
 
+## Строки
+14. [Строки](./articles/14_strings.md)
+31. [Функции для работы со строками](./articles/31_mastering_strings.md)
+33. [Строковые литералы и строки](./articles/33_string_literals_and_const_pointers.md)
+43. [Работа с текстовыми файлами](./articles/43_text_files.md)
+
 ## Работа с памятью
-12. [Массивы](./articles/12_arrays.md)
-13. [Многомерные массивы](./articles/13_multidimensional_arrays.md)
 22. [Структура программы на си](./articles/22_program_structure.md)
 23. [Динамическое выделение памяти](./articles/23_memory_allocation.md)
 36. [Классы памяти](./articles/36_storage_class.md)
@@ -55,6 +54,7 @@
 ## Прочее
 21. [Отладка программы (Windows)](./articles/21_debug.md)
 32. [Генерация псевдослучайных чисел](./articles/32_random.md)
+44. [Работа с бинарными файлами](./articles/44_binary_files.md)
 45. [Сложные объявления](./articles/45_sophisticated_declarations.md)
 46. [Сигналы](./articles/46_signals.md)
 
