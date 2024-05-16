@@ -58,4 +58,14 @@
 45. [Сложные объявления](./articles/45_sophisticated_declarations.md)
 46. [Сигналы](./articles/46_signals.md)
 
+## Дополнение
+47. [Реализация инкапсуляции с помощью непрозрачных указателей](./articles/opaque_pointers.md)
+48. [Реализация пространств имён в си](./articles/namespaces.md)
+49. [Реализация перегрузки функций по типу с помощью макроса _Generic](./articles/generic.md)
+50. [Встраиваемые функции](./articles/inline.md)
+51. [Restrict указатели](./articles/restrict.md)
+52. [Применение ключевого слова Volatile](./articles/volatile.md)
+53. [Гид по линкерам для начинающих. Часть 1](./articles//beginners_guide_to_linkers.md)
+54. [Гид по линкерам для начинающих. Часть 2](./articles//beginners_guide_to_linkers2.md)
+
 https://learnc.info/index.html
